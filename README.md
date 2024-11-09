@@ -1,2 +1,2 @@
-# HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Django, MySQL/MongoDB
+# Frontend, Backend & Project Management 
 For Using Images Unsplash API :- https://source.unsplash.com/{size}/?{about} 
