@@ -1,6 +1,4 @@
 # SaaS Project Management(Agile) & Developments (Full Stack)
-
-- 🌐 Stack Overflow: https://stackoverflow.com/users/18471807/farhan-sadid-zihan
   
 - 🤖 AI Models: https://huggingface.co/farhansadidzihan
   
