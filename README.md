@@ -1,6 +1,6 @@
 # Technology - CTO - Remote Job
 
-### [Domain](https://www.exonhost.com) | [Hosting](https://console.firebase.google.com/u/0) | [Cyber Security](https://www.crowdstrike.com)
+### [Domain](https://www.exonhost.com) | [Hosting](https://console.firebase.google.com/u/0) | [Cyber Security](https://www.crowdstrike.com) | [Job Exp](https://www.theforage.com/achievements)
 - APIs: [RapidAPI](https://rapidapi.com/hub), [Public API](https://publicapis.dev/), [SerpAPI](https://serpapi.com/)
 
 ### SaaS Project Management(Agile), Developments (Full Stack) & Business Intelligence
