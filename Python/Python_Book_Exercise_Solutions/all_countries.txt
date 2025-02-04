@@ -1,0 +1,12 @@
+England, Albania, Algeria, Bahrain, Egypt, Iraq, Jordan, Kuwait, 
+Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Arab 
+Emirates, Yemen, Azerbaijan, Bangladesh, Rusia, India, Bulgaria, 
+China, Phillippine, Singapore, Hong Kong, Taiwan, Belgium, 
+Netherlands, Australia, Canada, Ireland, Malaysia, New Zealand, 
+South Africa, America, Zimbabwe, France, Luxembourg, Switzerland, 
+Nigeria, Ghana, Senegal, Ausria, Germany, Grece, Indonasia, Italy, 
+Japan, Norway, Sweden, Brunei, Nepal, Finland, Pakistan, Brazil, 
+Portugal, Bolivia, Equador, Peru, Romania, Serbia, Argentina, Chile, 
+Colombia, Costa Rica, Ecuador, El Salvador, Mexico, Panama, Paraguay, 
+Peru, Puerto Rico, Spain, Uruguay, Sri Lanka, Thiland, Vietnam, 
+Uganda, Vatican City 
