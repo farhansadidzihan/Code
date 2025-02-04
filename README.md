@@ -1,4 +1,4 @@
-# Technology - CTO
+# Technology - CTO - Remote Job
 
 ### [Domain](https://www.exonhost.com) | [Hosting](https://console.firebase.google.com/u/0) | [Cyber Security](https://www.crowdstrike.com)
 - APIs: [RapidAPI](https://rapidapi.com/hub), [Public API](https://publicapis.dev/), [SerpAPI](https://serpapi.com/)
