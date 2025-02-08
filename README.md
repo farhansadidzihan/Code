@@ -1,13 +1,13 @@
 # Technology - CTO - Remote Job
 
+### [Code](https://replit.com/@farhansadidzihan67) - [Learn](https://takeuforward.org) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Hackathons](https://devpost.com/farhansadidzihan)
 ### [Domain](https://www.exonhost.com) | [Hosting](https://console.firebase.google.com/u/0) | [Cyber Security](https://www.crowdstrike.com) | [Job Exp](https://www.theforage.com/achievements)
 - APIs: [RapidAPI](https://rapidapi.com/hub), [Public API](https://publicapis.dev/), [SerpAPI](https://serpapi.com/)
 
-### SaaS Project Management(Agile), Developments (Full Stack) & Business Intelligence
 
-### [Learn](https://takeuforward.org) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Hackathons](https://devpost.com/farhansadidzihan)
 
 ## || Collect & Clean -> EDA & Modelling -> Visualization || [Kaggle](https://www.kaggle.com/farhansadidzihan)
+### SaaS Project Management(Agile), Developments (Full Stack) & Business Intelligence
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
