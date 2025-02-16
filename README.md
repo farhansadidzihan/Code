@@ -6,7 +6,7 @@
 
 
 
-## || Collect & Clean -> EDA & Modelling -> Visualization || [Kaggle](https://www.kaggle.com/farhansadidzihan)
+### [Kaggle](https://www.kaggle.com/farhansadidzihan)
 - Project Management, Development & Intelligence
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
