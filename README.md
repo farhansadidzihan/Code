@@ -33,7 +33,7 @@
 **Non-Tech**: Power BI, Tableau 
 
 ### 🏳️ [Projects](https://madewithml.com/courses/mlops/) & Interviews
-**Remote Jobs:** [Blind](https://www.teamblind.com/salary), [F6S](https://www.f6s.com), [Internships](https://www.virtualinternships.com), [WWR](https://weworkremotely.com), [Remote.co](https://remote.co/remote-jobs), [FlexJobs](https://flexjobs.com)
+**Remote Jobs:** [Blind](https://www.teamblind.com/salary), [F6S](https://www.f6s.com), [WWR](https://weworkremotely.com), [Remote.co](https://remote.co/remote-jobs), [FlexJobs](https://flexjobs.com)
 
 1. Docker, Kubernetes
 3. [Data Science Questions](https://www.mlstack.cafe)
