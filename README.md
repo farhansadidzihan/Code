@@ -1,4 +1,4 @@
-# Technology - CTO - Remote Job
+# Technology (Remote Job)
 
 ### [Code](https://replit.com/@farhansadidzihan67) - [Learn](https://takeuforward.org) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Hackathons](https://devpost.com/farhansadidzihan)
 ### [Domain](https://www.exonhost.com) | [Hosting](https://console.firebase.google.com/u/0) | [Cyber Security](https://www.crowdstrike.com) | [Job Exp](https://www.theforage.com/achievements)
@@ -35,6 +35,5 @@
 ### 🏳️ [Projects](https://madewithml.com/courses/mlops/) & Interviews
 **Remote Jobs:** [Blind](https://www.teamblind.com/salary), [F6S](https://www.f6s.com), [WWR](https://weworkremotely.com), [Remote.co](https://remote.co/remote-jobs), [FlexJobs](https://flexjobs.com)
 
-1. Docker, Kubernetes
 3. [Data Science Questions](https://www.mlstack.cafe)
 2. [SQL Questions](https://datalemur.com)
