@@ -1,6 +1,6 @@
 # Technology (Remote Job)
 
-### [Learn](https://takeuforward.org) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Hackathons](https://devpost.com/farhansadidzihan) -  [Kaggle](https://www.kaggle.com/farhansadidzihan) - [Domain](https://www.exonhost.com) | [Hosting](https://console.firebase.google.com/u/0) | [Job Exp](https://www.theforage.com/achievements)
+### [Learn](https://takeuforward.org) - [LeetCode](https://leetcode.com/u/farhansadidzihan) - [GeeksforGeeks](https://www.geeksforgeeks.org/user/farhansadidzihan67) - [CodeChef](https://www.codechef.com/users/farhanzihan) - [Hackathons](https://devpost.com/farhansadidzihan) - [Job Exp](https://www.theforage.com/achievements)
 
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
