@@ -1,7 +1,4 @@
-# Technology (Remote Job)
-
-### [Learn](https://takeuforward.org)
-
+# Technology (Remote Job) [Learn](https://takeuforward.org)
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
