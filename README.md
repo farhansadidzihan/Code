@@ -1,4 +1,4 @@
-# Technology (Remote Job) [TUF](https://takeuforward.org)
+# Remote Job
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
