@@ -1,4 +1,4 @@
-# Data Anlyst
+# Data Analyst (Dev & Intell)
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
