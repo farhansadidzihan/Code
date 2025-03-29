@@ -17,7 +17,7 @@
 2. [DL OneShot](https://youtu.be/V7Z2sV00nHI?si=A6Vt5s7oDjrSaAoR), [Playlist](https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
 3. [NLP](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
-### Step 3. Data Visualization
+### Step 3. Visualization
 
 **Tech**: Matplotlib, Seaborn
 <br>
