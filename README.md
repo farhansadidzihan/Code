@@ -23,4 +23,4 @@
 <br>
 **Non-Tech**: Power BI, Tableau 
 
-### 🏳️ Projects & [Interviews](https://www.mlstack.cafe)
+### 🏳️ Remote Job [Interviews](https://www.mlstack.cafe)
