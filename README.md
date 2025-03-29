@@ -1,5 +1,5 @@
-# Data Analyst
-**Dev & Intell**
+# Turning Data into Profit
+
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
 **Tech**: Python, DSA, DBMS, Numpy, Pandas, OpenRefine,  [MySQL](https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl) 
