@@ -1,4 +1,4 @@
-# Turning Data into Profit
+# Turning Data into Profit with Data Analysis & Business Intelligence
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
@@ -9,6 +9,7 @@
 ### Step 2. EDA & [Modeling](https://dbourke.link/mlmap)
 
 **Tech**: Sk-Learn, Tensorflow, Pytorch, Keras, Pandas_Profiling, FeatureTools
+**[DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)**
 <br>
 **Non-Tech**: Apache Hadoop, Apache Spark
 1. [Stats Playlist](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ), [Stats Session](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
