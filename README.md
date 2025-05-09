@@ -6,7 +6,7 @@
 <br>
 **Non-Tech**: Excel
   
-### Step 2. EDA & [Modeling](https://dbourke.link/mlmap)
+### Step 2. EDA & Modeling
 
 **Tech**: Sk-Learn, Tensorflow, Pytorch, Keras, Pandas_Profiling, FeatureTools
 **[DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)**
