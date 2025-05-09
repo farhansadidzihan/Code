@@ -1,4 +1,4 @@
-# Turning Data into Profit with Data Analysis & Business Intelligence
+# Data Analysis & Business Intelligence
 
 ### Step 1. [Collect](https://youtu.be/D_wNQR3LeeM?si=oe2rR-RaOSZ8cVZL) & Clean
 
