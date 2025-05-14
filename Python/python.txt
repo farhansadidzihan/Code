@@ -1,4 +1,0 @@
-Python is an Interpreted Object Oriented Language using dynamic semantics.
-Guido van Rossum is the inventor of Python.
-In 1980, Guido van Rossum started to create Python.
-The name was taken from a circus name, called "Monty Python Circus."
