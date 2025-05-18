@@ -9,7 +9,6 @@
 ### Step 2. EDA & Modeling
 
 **Tech**: Sk-Learn, Tensorflow, Pytorch, Keras, Pandas_Profiling, FeatureTools
-**[DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)**
 <br>
 **Non-Tech**: Apache Hadoop, Apache Spark
 1. [Stats Playlist](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ), [Stats Session](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
