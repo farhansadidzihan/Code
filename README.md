@@ -22,5 +22,3 @@
 **Tech**: Matplotlib, Seaborn
 <br>
 **Non-Tech**: Power BI, Tableau 
-
-### 🏳️ Remote Job [Interviews](https://www.mlstack.cafe)
